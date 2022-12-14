@@ -1,0 +1,24 @@
+.title span {
+  font-size: 36px;
+  margin-left: 7px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li,
+.title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+li img {
+  margin-right: 10px;
+}
